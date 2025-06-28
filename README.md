@@ -4,9 +4,7 @@ A simple landing page for the Quick Paste macOS application, a lightweight clipb
 
 ## Features
 
-- Simple, responsive design
 - Download link for QuickPaste.zip
-- "Buy Me a Coffee" support button
 
 ## Deployment
 
